@@ -1,0 +1,5 @@
+edu\epam\fop\web\BookSearchServlet.class
+edu\epam\fop\web\exceptions\InvalidISBNException.class
+edu\epam\fop\web\LoginServlet.class
+edu\epam\fop\web\exceptions\UserNotLoggedInException.class
+edu\epam\fop\web\FinesServlet.class

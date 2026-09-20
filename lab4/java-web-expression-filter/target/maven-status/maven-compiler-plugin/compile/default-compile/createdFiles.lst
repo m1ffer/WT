@@ -1,0 +1,5 @@
+edu\epam\fop\web\ValidationFilter.class
+edu\epam\fop\web\EncodingFilter.class
+edu\epam\fop\web\ApplicationInitializer.class
+edu\epam\fop\web\CalculatorServlet.class
+edu\epam\fop\web\LoggingFilter.class

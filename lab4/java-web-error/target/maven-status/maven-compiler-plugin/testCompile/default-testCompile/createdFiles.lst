@@ -1,0 +1,5 @@
+edu\epam\fop\web\LoginServletTest.class
+edu\epam\fop\web\BookSearchServletTest.class
+edu\epam\fop\web\WebXmlTest.class
+edu\epam\fop\web\FinesServletTest.class
+edu\epam\fop\web\ReplaceCamelCase.class

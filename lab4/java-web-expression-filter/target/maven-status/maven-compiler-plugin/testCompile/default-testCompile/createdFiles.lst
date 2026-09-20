@@ -1,0 +1,5 @@
+edu\epam\fop\web\ValidationFilterTest.class
+edu\epam\fop\web\CalculatorServletTest.class
+edu\epam\fop\web\LoggingFilterTest.class
+edu\epam\fop\web\ReplaceCamelCase.class
+edu\epam\fop\web\EncodingFilterTest.class

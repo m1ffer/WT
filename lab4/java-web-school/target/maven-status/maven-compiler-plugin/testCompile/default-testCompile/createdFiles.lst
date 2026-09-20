@@ -1,0 +1,4 @@
+edu\epam\fop\web\MyHttpSessionListenerTest.class
+edu\epam\fop\web\MyServletContextListenerTest.class
+edu\epam\fop\web\MyServletTest.class
+edu\epam\fop\web\ReplaceCamelCase.class
