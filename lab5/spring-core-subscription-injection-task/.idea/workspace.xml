@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9935ed2a-b4a0-4de9-b945-34b1be2226f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/src/main/java/com/epam/rd/autotasks/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/src/main/java/com/epam/rd/autotasks/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/src/main/java/com/epam/rd/autotasks/config/CarConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/src/main/java/com/epam/rd/autotasks/config/OwnerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/src/test/java/com/epam/rd/autotasks/GarageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/target/classes/com/epam/rd/autotasks/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/target/classes/com/epam/rd/autotasks/Owner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/target/classes/com/epam/rd/autotasks/config/CarConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/target/classes/com/epam/rd/autotasks/config/OwnerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-garage-task/target/test-classes/com/epam/rd/autotasks/GarageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/src/main/java/com/epam/rd/autotasks/MusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/src/main/java/com/epam/rd/autotasks/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/src/main/java/com/epam/rd/autotasks/config/MusicServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/src/test/java/com/epam/rd/autotasks/MusicServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/target/classes/com/epam/rd/autotasks/MusicService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/target/classes/com/epam/rd/autotasks/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/target/classes/com/epam/rd/autotasks/config/MusicServiceConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-music-service-task/target/test-classes/com/epam/rd/autotasks/MusicServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/src/main/java/com/epam/rd/autotasks/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/src/main/java/com/epam/rd/autotasks/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/src/main/java/com/epam/rd/autotasks/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/src/main/java/com/epam/rd/autotasks/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/src/test/java/com/epam/rd/autotasks/PlaylistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/target/classes/com/epam/rd/autotasks/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/target/classes/com/epam/rd/autotasks/Singer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/target/classes/com/epam/rd/autotasks/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/target/classes/com/epam/rd/autotasks/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-playlist-task/target/test-classes/com/epam/rd/autotasks/PlaylistTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/src/main/java/com/epam/rd/autotasks/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/src/main/java/com/epam/rd/autotasks/config/SongConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/src/test/java/com/epam/rd/autotasks/SongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/target/classes/com/epam/rd/autotasks/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/target/classes/com/epam/rd/autotasks/config/SongConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-song-task/target/test-classes/com/epam/rd/autotasks/SongTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/AccountImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/PaymentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/Period.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/PeriodImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/SubConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/Subscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/epam/fop/spring/injection/SubscriptionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/AccountImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/Payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/PaymentImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/Period.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/PeriodImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/SubConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/Subscription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/edu/epam/fop/spring/injection/SubscriptionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/src/main/java/com/epam/rd/autotasks/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/src/main/java/com/epam/rd/autotasks/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/src/main/java/com/epam/rd/autotasks/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/src/test/java/com/epam/rd/autotasks/TaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/target/classes/com/epam/rd/autotasks/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/target/classes/com/epam/rd/autotasks/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/target/classes/com/epam/rd/autotasks/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core-task-task/target/test-classes/com/epam/rd/autotasks/TaskTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/java-web-servlet-life-cycle2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/java-web-servlet-life-cycle2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/java-web-servlet-life-cycle2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/java-web-servlet-life-cycle2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;nikitosgeevic&quot;,
+      &quot;fullname&quot;: &quot;nikitosgeevic&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://autocode.git.epam.com/nikitosgeevic/spring-core-subscription-injection-task.git&quot;,
+    &quot;second&quot;: &quot;a1cdf611-09e1-45ab-8b9b-d697cd38814b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3JeII2Z8uyoA2DDKX1kQ4DiTYSH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/5sem/wt/lab5/spring-core-subscription-injection-task&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9935ed2a-b4a0-4de9-b945-34b1be2226f2" name="Changes" comment="" />
+      <created>1790015023886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790015023886</updated>
+      <workItem from="1790015025039" duration="1028000" />
+      <workItem from="1790016530339" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
